@@ -1,0 +1,91 @@
+﻿<!-- <!doctype html> arh. this doesn't work -->
+<html lang="en">
+<head>
+	<title>Boids and Buildings</title>
+	<meta charset="utf-8">
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="an experiment of procedural boids and buildings"/>
+</head>
+<body id="body">
+	<style>
+		html {
+			100%
+		}
+
+		body {
+			margin: 0;
+			overflow: hidden;
+			/* fix for somewhat buggy fullscreen situation in multi-screen chrome*/
+			width: 100%;
+			height: 100%;
+		}
+
+		#placeholder {
+			overflow: hidden;
+			width: 100%;
+			height: 100%;
+		}
+
+		a {
+			color: #000;
+		}
+
+		a:hover {
+			text-decoration: none;
+			font-weight: bold;
+		}
+		
+		body {
+			overflow: hidden;
+		}
+
+		#playcontrols {
+			display: none;
+			position: absolute;
+			width: 100%;
+			top: 70px;
+			text-align: center;
+			font-family:monospace;
+			text-shadow: #fff 1px 1px 1px;
+		}
+
+	</style>
+	<div id="playcontrols">
+		<!--<a href="#" onclick="showmenu(); return false;">Menu</a>-->
+		<a href="#" onclick="paused = !paused; return false;">Pause</a>
+		<a href="#" onclick="cameraMode = CAMERA_BOID; return false;">Boid Cam</a>
+		<a href="#" onclick="cameraMode = CAMERA_HAWK; return false;">Hawk Cam</a>
+		<a href="#" onclick="cameraMode = CAMERA_FPS; return false;">FPS Cam</a>
+		<a href="#" onclick="cameraMode = CAMERA_TRAM; return false;">Tram Cam</a>
+        <a href="#" onclick="alert(window.forget);">Current Num</a>
+	</div>
+	<div id="placeholder"></div>
+	<!--<audio id="background" style="display:none">
+		<source src="music/MagnumProelium.ogg" type='audio/ogg'>
+		<source src="music/MagnumProelium.mp3" type='audio/mp3'>
+	</audio>-->
+
+	<script src="js/three.js"></script>
+
+    <script src="js/MTLLoader.js"></script>
+    <script src="js/OBJMTLLoader.js"></script>
+
+    <!--<script src="js/OBJLoader.js"></script>-->
+
+    <script src="js/Detector.js"></script>
+
+	<script src="utils.js"></script>
+	<script src="Land.js"></script>
+	<script src="Road.js"></script>
+
+	<script src="js/FirstPersonControls.js"></script>
+
+	<script src="js/Bird.js"></script>
+	<script src="Boid.js"></script>
+	<script src="Director.js"></script>
+	<script src="js/stats.min.js"></script>
+	<!-- entry points -->
+	<script src="main.js"></script>
+	<script src="splash.js"></script>
+</body>
+</html>

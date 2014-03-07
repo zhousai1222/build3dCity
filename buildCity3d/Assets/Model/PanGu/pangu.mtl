@@ -1,0 +1,325 @@
+#  ==========================================================================
+#  Wavefront Material file
+#  Exported by Red-i Productions' "Riptide Pro"
+#  (a commercial plugin for Cinema 4D PC & Mac, R9.6 or later)
+#  
+#  Red-i Productions
+#  http://skinprops.com
+#  
+#  ==========================================================================
+
+newmtl screen3
+Kd 0.938053 0.938053 0.938053
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 50.781250
+
+newmtl screen2
+Kd 0.513274 0.513274 0.513274
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 50.781250
+
+newmtl screen1
+Kd 0.238938 0.238938 0.238938
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 50.781250
+
+newmtl _12226534_2
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _12226534_2.jpg
+
+newmtl _15513005_1
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _15513005_1.jpg
+
+newmtl df4
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd df4.jpg
+
+newmtl Material
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material.jpg
+
+newmtl _15431280_1
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _15431280_1.jpg
+
+newmtl default_Mat
+illum 1
+
+newmtl Material_12
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_12.jpg
+
+newmtl Material_17
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_17.jpg
+
+newmtl Material_1
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_1.jpg
+
+newmtl Material_16
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_16.jpg
+
+newmtl Material_18
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_18.jpg
+
+newmtl df3_30
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd df3_30.jpg
+
+newmtl df3
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd df3.jpg
+
+newmtl _15513005
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _15513005.jpg
+
+newmtl Material_6
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_6.jpg
+
+newmtl Material_14
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_14.jpg
+
+newmtl Material_13
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_13.jpg
+
+newmtl Material_8
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_8.jpg
+
+newmtl _14815745_29
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_29.jpg
+
+newmtl Material_5
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_5.jpg
+
+newmtl _14815745_7
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_7.jpg
+
+newmtl _14815745_24
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_24.jpg
+
+newmtl _14815745_23
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_23.jpg
+
+newmtl _14815745_22
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_22.jpg
+
+newmtl _14815745_21
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_21.jpg
+
+newmtl _14815745_20
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_20.jpg
+
+newmtl _14815745_19
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_19.jpg
+
+newmtl _14815745_18
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_18.jpg
+
+newmtl _14815745_17
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_17.jpg
+
+newmtl _14815745_16
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_16.jpg
+
+newmtl _14815745_15
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_15.jpg
+
+newmtl _14815745_14
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_14.jpg
+
+newmtl _14815745_13
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_13.jpg
+
+newmtl _14815745_12
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_12.jpg
+
+newmtl _14815745_11
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_11.jpg
+
+newmtl _14815745_10
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_10.jpg
+
+newmtl _14815745_9
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_9.jpg
+
+newmtl _14815745_8
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_8.jpg
+
+newmtl _14815745_7.1
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_7_0.jpg
+
+newmtl _14815745
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745.jpg
+
+newmtl _14815745_28
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_28.jpg
+
+newmtl _14815745_27
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_27.jpg
+
+newmtl _14815745_26
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_26.jpg
+
+newmtl _14815745_25
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_25.jpg
+
+newmtl _14815745_6
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd _14815745_6.jpg
+
+newmtl Material_26
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_26.jpg
+
+newmtl df0_1
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd df0_1.jpg
+
+newmtl Material_25_4
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_25_4.jpg
+
+newmtl Material_25_6
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_25_6.jpg
+
+newmtl Material_25_5
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_25_5.jpg
+
+newmtl Material_27
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_27.jpg
+
+newmtl Material_33
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_33.jpg
+
+newmtl df2
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd df2.jpg
+
+newmtl df_3
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd df_3.jpg
+
+newmtl df
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd df.jpg
+
+newmtl Material_19
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_19.jpg
+
+newmtl Material_19_1
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_19_1.jpg
+
+newmtl Material_19_2
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_19_2.jpg
+
+newmtl Material_25
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd Material_25.jpg
+
+newmtl df1
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd df1.jpg

@@ -1,0 +1,300 @@
+#  ==========================================================================
+#  Wavefront Material file
+#  Exported by Red-i Productions' "Riptide Pro"
+#  (a commercial plugin for Cinema 4D PC & Mac, R9.6 or later)
+#  
+#  Red-i Productions
+#  http://skinprops.com
+#  
+#  ==========================================================================
+
+newmtl bridge
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd B_Col.png
+
+
+newmtl microsoft
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd Logo.png
+
+newmtl tower_1
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd Colour.png
+
+newmtl pasted__blinn1SG
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd car.png
+
+newmtl taipeng
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd taipeng1.png
+
+
+newmtl lifangting
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd lifangting_2.png
+
+
+newmtl guangchang_2
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd guangchang_2.png
+
+
+newmtl guangchanggouwu
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd GCgouwu_1.png
+
+newmtl guangchang_1_1
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd GCgouwu_2.png
+
+newmtl xindongfang
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd xindongfang.png
+
+newmtl zhonggang
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd zhonggang.png
+
+newmtl oumeihui
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd oumeihui.png
+
+newmtl xindongfang_s
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd xindongfang_s.png
+
+newmtl zhongguanc_juyi
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd zhongguanc_juyi.png
+
+newmtl dinghao__2
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd dinghao _2.png
+
+newmtl dinghao
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd dinghao.png
+
+newmtl subway
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd subway.png
+
+newmtl ningbo
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd ningbo.png
+
+newmtl hailong
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd hailong.png
+
+
+newmtl ZGdianzi_1
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd ZGduanzi_1.png
+
+
+newmtl hengsheng
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd hengsheng.png
+
+
+newmtl shidai
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd shidai.png
+
+newmtl sitong
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd sitong.png
+
+
+newmtl e_shijie
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd e_shijie1.png
+
+
+newmtl e_shijie3
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd e_shijie3.png
+
+
+newmtl e_shijie.1
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd e_shijie1.png
+
+
+newmtl e_shijie.2
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd e_shijie1.png
+
+newmtl fangzheng
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd fangzheng.png
+
+newmtl hongcheng
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd hongcheng.png
+
+newmtl zgcgouwuE
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd zgcgouwuE.png
+
+newmtl lianxiang
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd lianxinag.png
+
+newmtl huihuang
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd huihuang.png
+
+newmtl xinlangsoho
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd xinlang_soho.png
+
+newmtl 1+1_2
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd 1+1_1_2.png
+
+newmtl 1+1_1
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd 1+1_5.png
+
+newmtl tianchuang
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd tianchuang.png
+
+newmtl shuohuang
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd shuohuang.png
+
+newmtl huagong
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd huagong.png
+
+newmtl ground
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd ground.png
+
+newmtl putian
+Kd 0.800000 0.800000 0.800000
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+illum 1
+map_Kd putian.png
