@@ -1,7 +1,4 @@
 
-// @author zz85
-// Boids and Buildings
-// http://www.lab4games.net/zz85/blog/2012/11/19/making-of-boids-and-buildings/
 
 function Land(width, height, done, options) {
 
