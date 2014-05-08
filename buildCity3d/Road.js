@@ -1,14 +1,3 @@
-// @author zz85
-// Boids and Buildings
-// http://www.lab4games.net/zz85/blog/2012/11/19/making-of-boids-and-buildings/
-
-// A 3D extension of @mrdoob Map Generator http://jsdo.it/mrdoob/xI3u
-// Based on Jared Tarbell's Substrate algorithm concept.
-// http://www.complexification.net/gallery/machines/substrate/index.php
-
-// See http://en.wikipedia.org/wiki/Doubly_connected_edge_list
-// http://fgiesen.wordpress.com/2012/02/21/half-edge-based-mesh-representations-theory/
-// http://mrl.nyu.edu/~dzorin/ig04/lecture24/meshes.pdf
 
 function Road( x, y, angle, parent, roads, all_roads, context ) {
 
